@@ -1,0 +1,7 @@
+{
+  "name": "qbit",
+  "description": "An AI-powered beat maker that generates drum patterns from your text prompts using Gemini. Visualize and play your creations in an interactive digital audio workstation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
